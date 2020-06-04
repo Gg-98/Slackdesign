@@ -1,0 +1,7 @@
+echo "# Slackdesign" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Gg-98/Slackdesign.git
+git push -u origin master
+                
